@@ -1,0 +1,5 @@
+<meta>
+	<info author="StreuselHD"  type="misc" description="Login Musik" version="1.0" />
+	<script src="loginmusik.lua" type="client" />
+	<file src="music.mp3" />
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+	<info type="misc" name="Interiores de vehiculos" author="Redemtion" description="" version="1" />
+	<file src="autos/tropic.txd" />
+	<file src="autos/tropic.dff" />
+	<file src="autos/tram.txd" />
+	<file src="autos/tram.dff" />
+	<file src="autos/nevada.txd" />
+	<file src="autos/nevada.dff" />
+	<file src="autos/journey.txd" />
+	<file src="autos/journey.dff" />
+	<file src="autos/hotdog.txd" />
+	<file src="autos/hotdog.dff" />
+	<script type="client" src="auto.lua" />
+	<script type="client" src="derechos.lua" />
+</meta>
