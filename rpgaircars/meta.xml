@@ -1,0 +1,6 @@
+<meta>
+    <info author="iLiMiTz" type="script" version="1.0" name="Flying Cars" />
+   
+    <script src="fly_c.lua" type="client" />
+	
+</meta>
