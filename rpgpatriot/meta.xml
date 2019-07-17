@@ -1,0 +1,5 @@
+<meta>
+    <info author="MircoTheGamer_StreuselHD" version="1.0" type="script"/>
+	<script src="c_car.lua" type="client"/>
+	<file src="patriot.dff" type="client"/>
+</meta>
